@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/782019965203479599/f718c1f8a78f471293561066cbb1f705/artifacts
+end_time: 1756462286690
+entry_point_name: ''
+experiment_id: '782019965203479599'
+lifecycle_stage: active
+run_id: f718c1f8a78f471293561066cbb1f705
+run_name: vaunted-trout-207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756462286234
+status: 3
+tags: []
+user_id: singh

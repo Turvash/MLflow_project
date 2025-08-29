@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/782019965203479599/3da3381a9c7a4c389b8c5e142b24ea1e/artifacts
+end_time: 1756463320308
+entry_point_name: ''
+experiment_id: '782019965203479599'
+lifecycle_stage: active
+run_id: 3da3381a9c7a4c389b8c5e142b24ea1e
+run_name: honorable-sow-236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756463314604
+status: 3
+tags: []
+user_id: singh

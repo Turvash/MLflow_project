@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/782019965203479599/ee97699d163f45a5b25a29f398fde251/artifacts
+end_time: 1756465499417
+entry_point_name: ''
+experiment_id: '782019965203479599'
+lifecycle_stage: active
+run_id: ee97699d163f45a5b25a29f398fde251
+run_name: merciful-calf-986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756465491042
+status: 3
+tags: []
+user_id: singh

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/782019965203479599/3407f0f852154cb7879890007b1a5c31/artifacts
+end_time: 1756465599289
+entry_point_name: ''
+experiment_id: '782019965203479599'
+lifecycle_stage: active
+run_id: 3407f0f852154cb7879890007b1a5c31
+run_name: respected-sheep-998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756465593000
+status: 3
+tags: []
+user_id: singh
