@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/923827025011377929/91519a02cb0a473d82abf8695f28d41f/artifacts
+end_time: 1756490825889
+entry_point_name: ''
+experiment_id: '923827025011377929'
+lifecycle_stage: active
+run_id: 91519a02cb0a473d82abf8695f28d41f
+run_name: whimsical-hare-755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756490818165
+status: 3
+tags: []
+user_id: singh

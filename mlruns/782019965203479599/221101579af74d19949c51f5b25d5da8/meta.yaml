@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/782019965203479599/221101579af74d19949c51f5b25d5da8/artifacts
+end_time: 1756490326832
+entry_point_name: ''
+experiment_id: '782019965203479599'
+lifecycle_stage: active
+run_id: 221101579af74d19949c51f5b25d5da8
+run_name: intrigued-snail-894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756490312946
+status: 3
+tags: []
+user_id: singh

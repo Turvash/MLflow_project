@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/923827025011377929/4ad0a9f0d554435ca16b9f9e50204295/artifacts
+end_time: 1756490917510
+entry_point_name: ''
+experiment_id: '923827025011377929'
+lifecycle_stage: active
+run_id: 4ad0a9f0d554435ca16b9f9e50204295
+run_name: useful-skink-821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756490911489
+status: 3
+tags: []
+user_id: singh
